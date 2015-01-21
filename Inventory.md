@@ -15,7 +15,11 @@ If you take anything or have something to add to the inventory, inform someone w
 | Business Cards                          | Several Hundred |
 | Bag of Assorted Wools and Yarns         | 2               |
 | Rope Making Machine + Bits              | 1               |
-| Assorted Hi-Vis Jackets (Orange)        | 16              |
+| Orange Hi-Vis Jacket (M)                | 4               |
+| Orange Hi-Vis Jacket (L)                | 3               |
+| Orange Hi-Vis Jacket (XL)               | 5               |
+| Orange Hi-Vis Jacket (2XL)              | 1               |
+| Orange Hi-Vis Jacket (3XL)              | 3               |
 | Tower PC + Bits                         | 1               |
 | Computer Keyboard                       | 2               |
 | Spool of Solder                         | 2               |
