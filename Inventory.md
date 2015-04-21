@@ -1,7 +1,7 @@
 Inventory
 =========
 
-### What's This
+### What's This?
 This lists all the stuff in the Derby Makers cupboard at the Silk Mill. Expect it to grow as we accumulate more stuff.
 
 ### Contributing
