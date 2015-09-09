@@ -30,3 +30,6 @@ If you take anything or have something to add to the inventory, inform someone w
 | Battery Clips                           | 276             |
 | Assembled Derby Makers Badges           | 2               |
 | PCB for Badges                          | 164             |
+| Netgear Network Switch                  | 1               |
+| Cat 5e - 5m                             | 2               |
+| Cat 5e - 4m                             | 4               |
